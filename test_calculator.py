@@ -1,3 +1,6 @@
+# https://github.com/eschwarzzz/lab11-es-gj.git
+# Eric Schwarz & Guiliano Jules
+
 import unittest
 from calculator import *
 
