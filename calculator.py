@@ -1,3 +1,5 @@
+# https://github.com/eschwarzzz/lab11-es-gj.git
+# Eric Schwarz & Guiliano Jules
 """
 calculator.py
 - Defines functions used to create a simple calculator
